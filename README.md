@@ -1,6 +1,5 @@
 # RM_UAC
-## Group 10 - PPTI 15
-===================
+### Group 10 - PPTI 15
 1. Marcellino Joshua Kristianto (2602190375)
 2. Micheline Glenesia (2602199065)
 
